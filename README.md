@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|d|i|.|z|a|.|
+|d|i|k|z|a|k|
 
 |-|-|-|-|-|-|
 
@@ -21,3 +21,4 @@ res3: dat is juist
 req4: z
 res4: dat is juist!
 req5: k
+res5: dat is juist, je hebt het geraden!!!!!!!!!
