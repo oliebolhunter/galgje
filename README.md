@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|.|.|.|.|.|
+|.|.|.|.|a|.|
 
 |-|-|-|-|-|-|
 
@@ -12,4 +12,5 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-req1: ad
+req1: a
+res1: dat is juist
