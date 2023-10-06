@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|d|i|.|.|a|.|
+|d|i|.|z|a|.|
 
 |-|-|-|-|-|-|
 
@@ -19,3 +19,4 @@ res2: dat is juist
 req3: i
 res3: dat is juist
 req4: z
+res4: dat is juist!
